@@ -1,0 +1,2 @@
+ciao mondo
+questo file serve a testare una funzione assembly
